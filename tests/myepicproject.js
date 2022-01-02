@@ -1,4 +1,4 @@
-const anchor = require('@project-serum.anchor');
+const anchor = require('@project-serum/anchor');
 
 const main = async () => {
   console.log("🚀 Starting test...");
